@@ -3,7 +3,7 @@ PROJECT_NAME           = "_rain"
 PROJECT_BRIEF          = "Granular Syntesizer with some Tweaks"
 
 OUTPUT_DIRECTORY       = "./"
-INPUT                  = "../../" README.md
+INPUT                  = "../" README.md
 
 FILE_PATTERNS          = *.cpp *.h
 
