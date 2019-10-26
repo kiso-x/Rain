@@ -1,0 +1,4 @@
+<map id="GrainPlayer" name="GrainPlayer">
+<area shape="rect" id="node2" href="$class_single_sample.html" title="Class which holds the waveform of a sample in an array. " alt="" coords="5,5,137,345"/>
+<area shape="rect" id="node3" href="$class_triangular_window.html" title="A single window (envelope) for granular synthesis. " alt="" coords="161,5,339,345"/>
+</map>
